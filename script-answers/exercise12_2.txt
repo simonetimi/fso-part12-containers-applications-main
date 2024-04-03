@@ -1,0 +1,22 @@
+Script started on Wed Apr  3 12:43:46 2024
+[1m[7m%[27m[1m[0m                                                                                                ]7;file://MacBook-Air-di-Simone.local/Users/simonetimi/Desktop[0m[27m[24m[Jsimonetimi@MacBook-Air-di-Simone Desktop % [K[?2004heecho "hello     this is for exercs ise 12.2"[?2004l
+this is for exercise 12.2
+[1m[7m%[27m[1m[0m                                                                                                ]7;file://MacBook-Air-di-Simone.local/Users/simonetimi/Desktop[0m[27m[24m[Jsimonetimi@MacBook-Air-di-Simone Desktop % [K[?2004h[7mdocker container run -it ubuntu bash[27m[36D[27md[27mo[27mc[27mk[27me[27mr[27m [27mc[27mo[27mn[27mt[27ma[27mi[27mn[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27mi[27mt[27m [27mu[27mb[27mu[27mn[27mt[27mu[27m [27mb[27ma[27ms[27mh[?2004l
+Unable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+
+[1A[2Kf4bb4e8dca02: Pulling fs layer [1B[1A[2Kf4bb4e8dca02: Downloading  281.8kB/27.36MB[1B[1A[2Kf4bb4e8dca02: Downloading  4.487MB/27.36MB[1B[1A[2Kf4bb4e8dca02: Downloading  12.56MB/27.36MB[1B[1A[2Kf4bb4e8dca02: Downloading  22.93MB/27.36MB[1B[1A[2Kf4bb4e8dca02: Verifying Checksum [1B[1A[2Kf4bb4e8dca02: Download complete [1B[1A[2Kf4bb4e8dca02: Extracting  294.9kB/27.36MB[1B[1A[2Kf4bb4e8dca02: Extracting  7.373MB/27.36MB[1B[1A[2Kf4bb4e8dca02: Extracting  15.04MB/27.36MB[1B[1A[2Kf4bb4e8dca02: Extracting   23.3MB/27.36MB[1B[1A[2Kf4bb4e8dca02: Extracting  26.25MB/27.36MB[1B[1A[2Kf4bb4e8dca02: Extracting  27.36MB/27.36MB[1B[1A[2Kf4bb4e8dca02: Pull complete [1BDigest: sha256:77906da86b60585ce12215807090eb327e7386c8fafb5402369e421f44eff17e
+Status: Downloaded newer image for ubuntu:latest
+[?2004h]0;root@977054a30ff9: /root@977054a30ff9:/# mkdir /usr/src/app
+[?2004l[?2004h]0;root@977054a30ff9: /root@977054a30ff9:/# cd usr/src/app
+[?2004l[?2004h]0;root@977054a30ff9: /usr/src/approot@977054a30ff9:/usr/src/app# touch index.js
+[?2004l[?2004h]0;root@977054a30ff9: /usr/src/approot@977054a30ff9:/usr/src/app# exit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                                ]7;file://MacBook-Air-di-Simone.local/Users/simonetimi/Desktop[0m[27m[24m[Jsimonetimi@MacBook-Air-di-Simone Desktop % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Wed Apr  3 12:45:04 2024
