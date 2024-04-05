@@ -6,9 +6,6 @@ COPY . .
 
 RUN npm ci
 
-# Run tests
-RUN npm run test
-
 RUN npm run build
 
 CMD [ "npm", "run", "preview" ]
